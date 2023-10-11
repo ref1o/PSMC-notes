@@ -1,0 +1,10 @@
+{
+  "mathlive:open-modal": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "\\"
+    }
+  ]
+}

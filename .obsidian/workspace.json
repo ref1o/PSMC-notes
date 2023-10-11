@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "e78221fa13d0fc98",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc93484bbdb967e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d94d00d583beb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progettazione Sistemi Embedded e Multicore/3. Distributed Memory Programming with MPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdc9b46a0f7a4dca",
+    "type": "split",
+    "children": [
+      {
+        "id": "de3b4d21a56b4539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465acad06c54c9ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "373f9dbe74a503eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "829d62d83c9a9649",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bed1b8413a8f19e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c811fd64b34bdbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfccc75fc86e95e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Progettazione Sistemi Embedded e Multicore/3. Distributed Memory Programming with MPI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe2399b8ed605292",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Progettazione Sistemi Embedded e Multicore/3. Distributed Memory Programming with MPI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4be22540aade3b25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "778ee86268ce7241",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Progettazione Sistemi Embedded e Multicore/3. Distributed Memory Programming with MPI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "465acad06c54c9ed",
+  "lastOpenFiles": [
+    "Progettazione Sistemi Embedded e Multicore/3. Distributed Memory Programming with MPI.md",
+    "Progettazione Sistemi Embedded e Multicore/2. Hardware parallelo, software parallelo, input-output, performance.md",
+    "Progettazione Sistemi Embedded e Multicore/index.md",
+    "Progettazione Sistemi Embedded e Multicore/1. An introduction to Parallel Programming.md",
+    "Progettazione Sistemi Embedded e Multicore/Single-Program, Multiple Data.md",
+    "Progettazione Sistemi Embedded e Multicore/Gustafson's Law.md",
+    "Progettazione Sistemi Embedded e Multicore/Amdhal's Law.md",
+    "2023-10-08.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "2. Hardware parallelo, software parallelo, I.md",
+    "2. Hardware parallelo, software parallelo, I/O, performance 1.md",
+    "2. Hardware parallelo, software parallelo, I/O, performance.md",
+    "2. Hardware parallelo, software parallelo, I",
+    "Progettazione Sistemi Embedded e Multicore/Shared-memory.canvas",
+    "Progettazione Sistemi Embedded e Multicore",
+    "info.md",
+    "**4. Programmazione di sistemi a memoria condivisa tramite POSIX thread.md",
+    "Untitled/Automi.md",
+    "dfnd.md"
+  ]
+}
