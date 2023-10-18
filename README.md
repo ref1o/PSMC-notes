@@ -22,15 +22,12 @@ Per importare una repository Obsidian da GitHub sul tuo computer, segui questi p
 4. **Carica le Tua Note**:
    - Ora che hai aperto la cartella della repo Obsidian in Obsidian stesso, puoi vedere e modificare le tue note.
 
-5. **Sincronizza con GitHub** (opzionale):
-   - Se desideri sincronizzare le tue modifiche con GitHub, dovrai farlo manualmente utilizzando Git. Per eseguire il commit e il push delle modifiche, segui questi passaggi:
-     ```bash
-     # Aggiungi i tuoi cambiamenti
-     git add .
+5. **Contribuisci con un Fork**:
+   - Se desideri apportare modifiche significative alle note, ti consigliamo di fare il fork della repository su GitHub.
+   - Fai clic sul pulsante "Fork" nella parte superiore destra della pagina della repository su GitHub per creare una tua copia personale della repository.
 
-     # Esegui il commit con un messaggio
-     git commit -m "Aggiornamenti alle note"
-
-     # Effettua il push dei tuoi cambiamenti su GitHub
-     git push origin master
-     ```
+6. **Invia una Richiesta di Pull**:
+   - Fai le tue correzioni nella tua copia forked della repository.
+   - Dopo aver effettuato le modifiche, vai alla tua repository forked su GitHub.
+   - Clicca su "Confronta e crea una richiesta di pull".
+   - Spiega le modifiche che hai apportato e invia la richiesta di pull.
