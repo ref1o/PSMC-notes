@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "465acad06c54c9ed",
+  "active": "73d94d00d583beb1",
   "lastOpenFiles": [
-    "Progettazione Sistemi Embedded e Multicore/3. Distributed Memory Programming with MPI.md",
-    "Progettazione Sistemi Embedded e Multicore/2. Hardware parallelo, software parallelo, input-output, performance.md",
-    "Progettazione Sistemi Embedded e Multicore/index.md",
     "Progettazione Sistemi Embedded e Multicore/1. An introduction to Parallel Programming.md",
+    "Progettazione Sistemi Embedded e Multicore/2. Hardware parallelo, software parallelo, input-output, performance.md",
+    "Progettazione Sistemi Embedded e Multicore/3. Distributed Memory Programming with MPI.md",
+    "Progettazione Sistemi Embedded e Multicore/index.md",
     "Progettazione Sistemi Embedded e Multicore/Single-Program, Multiple Data.md",
     "Progettazione Sistemi Embedded e Multicore/Gustafson's Law.md",
     "Progettazione Sistemi Embedded e Multicore/Amdhal's Law.md",
