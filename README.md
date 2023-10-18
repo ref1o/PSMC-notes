@@ -16,7 +16,7 @@ Per importare una repository Obsidian da GitHub sul tuo computer, segui questi p
 
 3. **Apri la Cartella della Repo**:
    - Una volta aperto Obsidian, vai su "Impostazioni" (nell'angolo in alto a destra).
-   - Nella sezione "Altre", trova l'opzione "Apri cartella della nota" e clicca su "Apri".
+   - Nella sezione "Altre" trova l'opzione "Apri cartella della nota" e clicca su "Apri".
    - Naviga nella cartella che hai clonato dalla repository GitHub e selezionala.
 
 4. **Carica le Tua Note**:
