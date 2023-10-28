@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#tag:#Chapter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bed1b8413a8f19e5",
@@ -148,11 +150,11 @@
   },
   "active": "73d94d00d583beb1",
   "lastOpenFiles": [
+    "Progettazione Sistemi Embedded e Multicore/index.md",
+    "Progettazione Sistemi Embedded e Multicore/3. Distributed Memory Programming with MPI.md",
     "README.md",
     "Progettazione Sistemi Embedded e Multicore/1. An introduction to Parallel Programming.md",
     "Progettazione Sistemi Embedded e Multicore/2. Hardware parallelo, software parallelo, input-output, performance.md",
-    "Progettazione Sistemi Embedded e Multicore/3. Distributed Memory Programming with MPI.md",
-    "Progettazione Sistemi Embedded e Multicore/index.md",
     "Progettazione Sistemi Embedded e Multicore/Single-Program, Multiple Data.md",
     "Progettazione Sistemi Embedded e Multicore/Gustafson's Law.md",
     "Progettazione Sistemi Embedded e Multicore/Amdhal's Law.md",
